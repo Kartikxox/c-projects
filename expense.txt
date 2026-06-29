@@ -1,0 +1,2 @@
+food 900.00
+electicity 9000.00
